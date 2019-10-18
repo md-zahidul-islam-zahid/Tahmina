@@ -1,0 +1,265 @@
+
+@media (max-width: 575.98px) { 
+/*	header part start*/
+	.ellipse_shape img{
+		width: 98%;
+		margin: auto;
+	}
+	.ellipse_shape{
+		position: relative;
+	}
+	.overlay_all_txt{
+		position: absolute;
+		top:-1050px;
+		right:0;
+		width: 43%;
+	}
+	.overlay_all_txt h2{
+		font-size: 32px;
+	}
+	.portfolio_full{
+		width:74%;
+		margin: auto;
+	}
+/*	header part end*/
+/*	about part start*/
+	.myself_header h2{
+		margin-top: 100px;
+	}
+	.myself_txt p{
+		padding: 20px;
+	}
+/*	about part end*/
+/*	client feedback start*/
+	.client_feedback img{
+		width: 100%;
+		position: relative;
+	}
+	.client_img p {
+		position: absolute;
+		bottom: 214px;
+		right: 20px;
+		font-size: 16px;
+	}
+	.client_all_txt{
+		margin-top: 120px;
+	}
+	.client_all_txt h3{
+    	font-size: 16px;
+	}
+	.client_all_txt h4{
+    	font-size: 16px;
+   	}
+	.client_all_txt p{
+    	font-size: 12px;
+	}
+/*	client feedback end*/
+/*	my experiences start*/
+	.codecanyon{
+		margin-top: 70px;
+	}
+/*	my experiences end*/
+/*	my team start*/
+	.team_all{
+		margin-top: 70px;
+	}
+	.my_team_header h2{
+		padding-bottom: 50px;
+	}
+/*	my team end*/
+/*	contact start*/
+	.find_me_all_links{
+		margin-left: 35px;
+	}
+	.find_me_all_links a{
+		font-size: 18px;
+		margin-right: 35px;
+	}
+/*	contact end*/
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*	header part start*/
+	.hire_me_btn ul li a{
+		font-size: 13px;
+	}
+	.ellipse_shape{
+		position: relative;
+	}
+	.overlay_all_txt{
+		position: absolute;
+		top:-1050px;
+		right:0;
+		width: 43%;
+	}
+	.overlay_all_txt h2{
+		font-size: 32px;
+	}
+	.portfolio_full{
+		width:74%;
+		margin: auto;
+	}
+/*	header part end*/
+/*	about part start*/
+	.myself_header h2{
+		margin-top: 100px;
+	}
+	.myself_txt p{
+		padding: 20px;
+	}
+/*	about part end*/
+/*	recent work part start*/
+	.recent_work_img img{
+		width:90%;
+		height: 70%
+	}
+	#recent_works{
+		position: relative;
+	}
+	.banner_icon_left i{
+		position: absolute;
+		top: 230px;
+		left: 100px;
+	}
+	.banner_icon_right i {
+		position: absolute;
+		top: 230px;
+		right: 100px;
+	}
+/*	recent work part end*/
+/*	client feedback start*/
+	.client_all_txt{
+		margin-top: 120px;
+	}
+	.client_feedback img{
+		width: 100%;
+		position: relative;
+	}
+	.client_img p{
+		position: absolute;
+		bottom: 83px;
+		right: 40px;
+		font-size: 20px;
+	}
+/*	client feedback end*/
+/*	my experience start*/
+	.codecanyon{
+		margin-top: 70px;
+	}
+/*	my experience end*/
+/*	my team start*/
+	.team_all{
+		margin-top: 70px;
+	}
+	.my_team_header h2{
+		padding-bottom: 50px;
+	}
+/*	my team end*/
+	/*	contact start*/
+	.find_me_all_links{
+		margin-left: 35px;
+	}
+	.find_me_all_links a{
+		font-size: 18px;
+		margin-right: 35px;
+	}
+/*	contact end*/
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*	header part start*/
+	.hire_me_btn ul li a{
+		font-size: 13px;
+	}
+	.ellipse_shape{
+		position: relative;
+	}
+	.overlay_all_txt{
+		position: absolute;
+		top:-1050px;
+		right:0;
+		width: 43%;
+	}
+	.overlay_all_txt h2{
+		font-size: 32px;
+	}
+	.portfolio_full{
+		width:60%;
+		margin: auto;
+	}
+/*	header part end*/
+/*	about part start*/
+	.myself_header h2{
+		margin-top: 100px;
+	}
+	.myself_txt p{
+		padding: 20px;
+	}
+/*	about part end*/
+	
+/*	working process start*/
+	.all_working_process p{
+		margin-right: 77px;
+	}
+/*	working process end*/
+/*	recent work part start*/
+	.recent_work_img img{
+		width:90%;
+		height: 90%
+	}
+	#recent_works{
+		position: relative;
+	}
+	.banner_icon_left i{
+		position: absolute;
+		top: 250px;
+		left: 20px;
+	}
+	.banner_icon_right i {
+		position: absolute;
+		top: 250px;
+		right: 20px;
+	}
+/*	recent work part end*/
+/*	client feedback start*/
+	.client_all_txt{
+		margin-top: 120px;
+	}
+	.client_feedback img{
+		position: relative;
+	}
+	.client_img p{
+		position: absolute;
+		bottom: 83px;
+		right: 40px;
+		font-size: 20px;
+	}
+/*	client feedback end*/
+/*	my experience start*/
+	.codecanyon{
+		margin-top: 70px;
+	}
+/*	my experience end*/
+/*	my team start*/
+	.team_all{
+		margin-top: 70px;
+	}
+	.my_team_header h2{
+		padding-bottom: 50px;
+	}
+/*	my team end*/
+	/*	contact start*/
+	.find_me_all_links{
+		margin-left: 35px;
+	}
+	.find_me_all_links a{
+		font-size: 18px;
+		margin-right: 35px;
+	}
+/*	contact end*/
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+@media (min-width: 1200px) { ... }
